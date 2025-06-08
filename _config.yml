@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: BrandonCho # the main title
 
-tagline: lab # it will display as the subtitle
+tagline: personal lab # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
