@@ -74,7 +74,7 @@ theme_mode:
 
 cdn:
 
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/commons/avatar.png"
 
 social_preview_image:
 
