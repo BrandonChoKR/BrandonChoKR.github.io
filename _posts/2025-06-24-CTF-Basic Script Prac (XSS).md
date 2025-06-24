@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CTF-Basic Script Prac (XSS)"
-date: 2025-06-23 10:00:00 +0900
+date: 2025-06-24 10:00:00 +0900
 categories: [XSS]
 tags: [XSS, Cookie, HTML Entity, 스크립트 우회]
 ---
