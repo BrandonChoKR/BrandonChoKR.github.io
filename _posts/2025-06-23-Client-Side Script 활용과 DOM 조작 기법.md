@@ -3,7 +3,7 @@ layout: post
 title: "Client-Side Script 활용과 DOM 조작 기법"
 date: 2025-06-23 10:00:00 +0900
 categories: [XSS]
-tags: [XSS, Cookie, HTML Entity, 스크립트 우회]
+tags: [XSS, location, DOM, 스크립트 우회]
 ---
 ## Client Script 활용 기법
 1. 페이지 리디렉션 (Page Redirect)  
